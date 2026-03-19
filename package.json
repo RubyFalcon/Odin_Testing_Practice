@@ -1,0 +1,26 @@
+{
+  "name": "odin_testing_practice",
+  "version": "1.0.0",
+  "description": "A basic js project using jest to create unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubyFalcon/Odin_Testing_Practice.git"
+  },
+  "author": "Tupay Felkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubyFalcon/Odin_Testing_Practice/issues"
+  },
+  "homepage": "https://github.com/RubyFalcon/Odin_Testing_Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "babel-jest": "^30.3.0",
+    "jest": "^30.3.0"
+  }
+}
